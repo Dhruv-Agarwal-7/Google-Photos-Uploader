@@ -1,3 +1,14 @@
+# 🔐 Credentials & Tokens
 client_secrets.json
-*_token.json
+*-token.json
+
+# 📝 Upload Log
 uploaded_files.txt
+
+# 🗃️ Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ⚙️ Jupyter/Colab Artifacts (if used)
+.ipynb_checkpoints
